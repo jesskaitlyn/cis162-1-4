@@ -1,0 +1,41 @@
+body {margin-left: auto;
+    margin-right: auto;
+    max-width: 960px;
+    min-width: 640px;
+    width: 95%;
+    background-color: antiquewhite;
+    color: darkred;}
+
+
+section#leftColumn {float: left;
+    width:40%;}
+
+section#rightColumn {float: right;
+    width: 50%;}
+
+nav a{float:inherit;
+display: inline-table;
+color: aliceblue;
+text-align: center;
+padding: 45px;
+text-decoration: none;
+background-color: darksalmon;
+font-size: 25PX;}
+
+
+nav a:hover{background-color: burlywood;
+outline-width: medium;
+font-style: italic;}
+
+header{font-size: 30px;
+text-align: center;
+color: darksalmon;}
+
+img{align-content: center;
+outline-color: darksalmon;}
+
+a:link{color: deeppink;}
+
+li{display: inline;}
+
+
